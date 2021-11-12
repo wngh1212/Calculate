@@ -21,6 +21,7 @@ JavaFx + Scene Builder
 연산할 대상인 '365'를 입력하고 '='를 누르면
 
 
+![unknown](https://user-images.githubusercontent.com/88926634/141402528-1c283923-76ad-450b-8844-09852bb2dee7.png)
 
 
 
