@@ -23,6 +23,12 @@ JavaFx + Scene Builder
 
 ![unknown](https://user-images.githubusercontent.com/88926634/141402528-1c283923-76ad-450b-8844-09852bb2dee7.png)
 
+'620' 이라는 결과가 도출된다
+
+![unknown](https://user-images.githubusercontent.com/88926634/141402701-d6c458e9-d37a-4bd2-aed4-3b7e5589ca02.png)\
+
+버튼의 "C"를 누르면 NULL값으로 초기화가 된다
+
 
 
 
