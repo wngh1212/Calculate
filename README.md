@@ -30,6 +30,7 @@ JavaFx + Scene Builder
 버튼의 "C"를 누르면 NULL값으로 초기화가 된다
 
 
+![unknown](https://user-images.githubusercontent.com/88926634/141402863-1d44f4e7-e437-4002-8ecc-376b7531efac.png)
 
 
 
