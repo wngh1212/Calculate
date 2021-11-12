@@ -14,6 +14,17 @@ JavaFx + Scene Builder
 테스트를 위해 + 기호로 연산 하겠다.
 
 
+![unknown](https://user-images.githubusercontent.com/88926634/141402393-0690eef4-2e24-41ac-ae1c-8ef770c0786f.png)
+
+
+
+연산할 대상인 '365'를 입력하고 '='를 누르면
+
+
+
+
+
+
 
 
 
